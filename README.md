@@ -114,7 +114,7 @@ Ensures the backend functionalities are thoroughly tested and meet quality stand
 
 </ul>
 
-##   Features Breakdown
+## Feature Breakdown
 
 <ul>
   

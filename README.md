@@ -95,4 +95,24 @@ Ensures the backend functionalities are thoroughly tested and meet quality stand
   
 </ul>
 
+## Database Design
+<ul>
+
+### User 
+<ul>
+  <li> User must have an Account </li>
+  <li>User must have a name, location, password and alike on there account </li>
+  <li>User can have multiple properties in there name </li>
+</ul>
+
+### Property 
+<ul>
+  <li> Property must have price related to it</li>
+  <li> Property must have address related to it</li>
+  <li> Property must have photos of its condition related to it</li>
+</ul>
+
+</ul>
+
+
 This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution.

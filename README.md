@@ -156,5 +156,16 @@ Ensures the backend functionalities are thoroughly tested and meet quality stand
   
 </ul>
 
+## CI/CD Pipeline
 
-This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution.
+<ul>
+### What is CI/CD 
+  CI/CD, which stands for Continuous Integration and Continuous Delivery/Deployment, is a set of practices that automate the software development and delivery process. It aims to streamline the software development lifecycle (SDLC) by integrating code changes frequently and automating the build, test, and deployment stages. This leads to faster delivery, improved code quality, and increased team collaboration. 
+
+### Tools 
+  <ol>
+    <li> Docker </li>
+    <li> Git Actions </li>
+    <li> Infrastructure as Code (IaC) tools </li>
+  </ol>
+</ul>
